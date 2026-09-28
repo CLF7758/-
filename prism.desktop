@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Prism
+GenericName=Image Viewer
+Comment=A simple reference image viewer
+Terminal=false
+Exec=/home/yourname/path/to/Prism-0.3.4-dev.appimage
+Type=Application
+Icon=/home/yourname/path/to/logo.png
+
+MimeType=application/x-prism;
+Categories=Qt;KDE;Graphics;
+X-KDE-NativeMimeType=application/x-prism
+X-KDE-ExtraNativeMimeTypes=
